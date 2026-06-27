@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/surajacharya12/LeetCode/tree/master/0013-roman-to-integer) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/surajacharya12/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/surajacharya12/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -44,8 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/surajacharya12/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/surajacharya12/LeetCode/tree/master/0013-roman-to-integer) |
 ## Enumeration
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/surajacharya12/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/surajacharya12/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
