@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/surajacharya12/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/surajacharya12/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/surajacharya12/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/surajacharya12/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/surajacharya12/LeetCode/tree/master/0013-roman-to-integer) |
 ## Greedy
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/surajacharya12/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/surajacharya12/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
