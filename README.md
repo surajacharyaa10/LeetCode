@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/surajacharya12/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0024-swap-nodes-in-pairs](https://github.com/surajacharya12/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/surajacharya12/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/surajacharya12/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 ## Tree
 |  |
 | ------- |
