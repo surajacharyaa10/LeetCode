@@ -214,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/surajacharya12/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/surajacharya12/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
